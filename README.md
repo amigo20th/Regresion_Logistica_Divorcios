@@ -1,5 +1,5 @@
 
-<h1>Regresión Logística para la predicción de divorcios<\h1>
+<h1>Regresión Logística para la predicción de divorcios</h1>
 
 En este Notebook vamos a hacer una regresión logístia por medio de una sola neurona, o perceptró. El proceso va a ser llevado desde un inicio con el mayor nivel de explicación que me sea posible dar.
 
